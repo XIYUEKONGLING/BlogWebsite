@@ -1,5 +1,5 @@
 ---
-title: 链接
+title: Links
 slug: "links"
 links:
   - title: GitHub
