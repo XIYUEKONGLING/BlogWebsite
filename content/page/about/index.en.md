@@ -1,5 +1,5 @@
 ---
-title: "关于"
+title: About
 slug: "about"
 description: 
 date: '2025-09-18'
