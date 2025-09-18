@@ -9,4 +9,5 @@ gen
 public
 public/
 public/**/
+.hugo_build.lock
 

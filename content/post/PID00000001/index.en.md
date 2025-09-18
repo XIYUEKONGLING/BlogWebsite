@@ -1,6 +1,6 @@
 ---
-title: "世界，你好！"
-description: "新网站第一篇文章"
+title: "Hello, World! "
+description: "The First post on the new website"
 lastmod: 2025-09-18T19:04:00+08:00
 date: 2025-09-18T19:04:00+08:00
 slug: pid-00000001
@@ -11,5 +11,5 @@ categories:
 #image: ""
 ---
 
-新的帐号，新的开始。
+New account, new start.
 
