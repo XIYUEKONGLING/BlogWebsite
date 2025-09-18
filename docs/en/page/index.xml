@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Pages on XyKlNya &#39;s Blog</title>
+        <link>https://blog.xynya.xyz/en/page/</link>
+        <description>Recent content in Pages on XyKlNya &#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>XIYUEKONGLING</copyright>
+        <lastBuildDate>Thu, 18 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.xynya.xyz/en/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>About</title>
+        <link>https://blog.xynya.xyz/en/about/</link>
+        <pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.xynya.xyz/en/about/</guid>
+        <description>&lt;h1 id=&#34;hello-&#34;&gt;Hello~ 🍥🏳️‍⚧️
+&lt;/h1&gt;&lt;p&gt;Welcome to my page~&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/XIYUEKONGLING/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub Profile&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;about&#34;&gt;About
+&lt;/h2&gt;&lt;p&gt;Backend developer, primarily using C# &amp;amp; Java!&lt;/p&gt;
+&lt;h3 id=&#34;skills&#34;&gt;Skills
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://skillicons.dev&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;img src=&#34;https://skillicons.dev/icons?i=dotnet,cs,java,rust,cpp,git,docker,linux,vim,md,mysql,postgres,sqlite,mongo&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Skills&#34;
+	
+	
+&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;certificates--blockchain-addresses&#34;&gt;Certificates &amp;amp; Blockchain Addresses
+&lt;/h2&gt;&lt;h3 id=&#34;addresses&#34;&gt;Addresses
+&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;Bitcoin (BTC)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-text&#34; data-lang=&#34;text&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;bc1pgsv6h86wcmk6sc42dd9fapgtguq2f00sxank4lrzm3q7qvdj4ats4x5x94
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;blockquote&gt;
+&lt;p&gt;Ethereum (ETH)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-text&#34; data-lang=&#34;text&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;0x9524DBE26e1cF235ef0E67Dee0813D5409377c66
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;blockquote&gt;
+&lt;p&gt;Dogecoin (DOGE)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-text&#34; data-lang=&#34;text&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;D9FGfKo82aHF9TQvKouWLgraXaSZuiDG73
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;blockquote&gt;
+&lt;p&gt;Litecoin (LTC)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-text&#34; data-lang=&#34;text&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;MRPbCWEorD1So7YVM5BmPPoigm4WPyp4Yx
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h3 id=&#34;certificates&#34;&gt;Certificates
+&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;OpenPGP / GnuPG&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;XYKL-CHAT&lt;/strong&gt;: &lt;code&gt;CBCB 3EA3 A760 11A2 81C5 F015 EA76 3C30 CEFE E0F4&lt;/code&gt; &lt;a class=&#34;link&#34; href=&#34;https://raw.githubusercontent.com/XIYUEKONGLING/XIYUEKONGLING/refs/heads/main/certificates/chat.asc&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;(Certificate)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;XYKL-CODE&lt;/strong&gt;: &lt;code&gt;ACD5 A8CB F821 A58A 0E33 A601 D26B F906 1462 7218&lt;/code&gt; &lt;a class=&#34;link&#34; href=&#34;https://raw.githubusercontent.com/XIYUEKONGLING/XIYUEKONGLING/refs/heads/main/certificates/code.asc&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;(Certificate)&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Archives</title>
+        <link>https://blog.xynya.xyz/en/archives/</link>
+        <pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.xynya.xyz/en/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Links</title>
+        <link>https://blog.xynya.xyz/en/links/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.xynya.xyz/en/links/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Search</title>
+        <link>https://blog.xynya.xyz/en/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.xynya.xyz/en/search/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>

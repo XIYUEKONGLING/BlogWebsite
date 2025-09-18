@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Categories on XyKlNya &#39;s Blog</title>
+        <link>https://blog.xynya.xyz/en/categories/</link>
+        <description>Recent content in Categories on XyKlNya &#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>XIYUEKONGLING</copyright>
+        <lastBuildDate>Thu, 18 Sep 2025 19:04:00 +0800</lastBuildDate><atom:link href="https://blog.xynya.xyz/en/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Default</title>
+        <link>https://blog.xynya.xyz/en/categories/default/</link>
+        <pubDate>Thu, 18 Sep 2025 19:04:00 +0800</pubDate>
+        
+        <guid>https://blog.xynya.xyz/en/categories/default/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
