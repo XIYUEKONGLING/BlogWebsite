@@ -1,7 +1,7 @@
 baseurl: https://blog.xynya.xyz/
 languageCode: zh-cn
 theme: hugo-theme-stack
-title: XyKl's Blog
+title: XyKlNya 's Blog
 copyright: XIYUEKONGLING
 
 # Theme i18n support
@@ -13,20 +13,21 @@ DefaultContentLanguage: zh-cn
 hasCJKLanguage: true
 
 languages:
+    zh-cn:
+      languageName: 简体中文
+      title: 夕月空灵喵的博客
+      weight: 1
+      params:
+        sidebar:
+          subtitle: 
     en:
         languageName: English
-        title: Example Site
-        weight: 1
-        params:
-            sidebar:
-                subtitle: Example description
-    zh-cn:
-        languageName: 中文
-        title: 演示站点
+        title: XyKlNya 's Blog
         weight: 2
         params:
             sidebar:
-                subtitle: 演示说明
+                subtitle: 
+    
 
 services:
     # Change it to your Disqus shortname before using
@@ -60,11 +61,11 @@ params:
 
     sidebar:
         emoji: 🍥
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        subtitle: Data is the cornerstone. Defend privacy rights.
         avatar:
             enabled: true
             local: true
-            src: img/avatar.png
+            src: images/avatar.jpg
 
     article:
         math: false
@@ -72,7 +73,7 @@ params:
         readingTime: true
         license:
             enabled: true
-            default: Licensed under CC BY-NC-SA 4.0
+            default: Licensed Under CC BY-NC-SA 4.0
 
     comments:
         enabled: true
